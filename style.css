@@ -1,0 +1,9 @@
+h1{
+    color:blue;
+    background-color: yellow;
+    border: 5px solid red ;
+    width: 50%;
+    background-image: url("image/FB.jpg");\
+    overflow: auto;
+    background-repeat: no-repeat;
+}
